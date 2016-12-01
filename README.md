@@ -20,3 +20,4 @@ _lisää boldia_
 > blockquote suomeksi
 	
 
+[käyttöohje] (https://github.com/jurintal1/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
