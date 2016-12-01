@@ -14,7 +14,7 @@ _lisää boldia_
 1. numer
 2. oit
 3 . u  lista
-  * ja alakohta
+  * ja alakohta, kaikkea löytyy
   
 > mitä on 
 > blockquote suomeksi
