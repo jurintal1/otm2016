@@ -5,7 +5,7 @@
 **boldia**
 _lisää boldia_
 
-*kursiivia
+*kursiivia*
 
 * lista
   * lista
